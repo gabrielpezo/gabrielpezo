@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Pezo</h1>
-<h3 align="center">A beginner frontend developer from Chile</h3>
+<h3 align="center">A beginner fullstack developer from Chile</h3>
 
 - 🌱 I’m currently learning **cibersecurity**
 
@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I play "Mitos y Leyendas" role game.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">gabrielpezorojas@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
